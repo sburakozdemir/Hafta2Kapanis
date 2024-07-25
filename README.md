@@ -1,1 +1,1 @@
-# Hafta2Kapanis
+Patika+ Hafta 2 - Kapanış alıştırmaları.
